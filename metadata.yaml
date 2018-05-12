@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '35433'
     url: http://www.gutenberg.org/2009/agents/35433
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31729#The-Apple--13-The-Kansas-Apple-the-Big-Red-Apple--the-Luscious-Red-Cheeked-First-Love-of-the-_
 gutenberg_issued: '2010-03-22'
 gutenberg_type: Text
 identifiers:
