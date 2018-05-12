@@ -1,0 +1,33 @@
+_repo: The-Apple--13-The-Kansas-Apple-the-Big-Red-Apple--the-Luscious-Red-Cheeked-First-Love-of-the-__31729
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Barnes, William H.
+    gutenberg_agent_id: '42396'
+    url: http://www.gutenberg.org/2009/agents/42396
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Kansas State Horticultural Society
+    alias: Society, Kansas State Horticultural
+    gutenberg_agent_id: '35433'
+    url: http://www.gutenberg.org/2009/agents/35433
+description: ''
+gutenberg_issued: '2010-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31729'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Apples'
+title: "The Apple\r\nThe Kansas Apple, the Big Red Apple; the Luscious, Red-Cheeked\
+  \ First Love of the Farmer's Boy; the Healthful, Hearty Heart of the Darling Dumpling.\
+  \ What It Is; How to Grow It; Its Commercial and Economic Importance; How to Utilize\
+  \ It."
+url: http://www.gutenberg.org/ebooks/31729
